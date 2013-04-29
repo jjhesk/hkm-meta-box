@@ -1,0 +1,29 @@
+.section_step_hkm {
+    width: 100%;
+    clear: both;
+    display: block;
+}
+.section_step_hkm {
+    font-size: 25px;
+    border-bottom: 1px solid black;
+    line-height: 30px;
+    font-family: 
+}
+.combobox {
+    width: 100%;
+    clear: both;
+    display: block;
+}
+.hidden {
+    display: none;
+}
+.select2-container.combobox {
+    width: 100%;
+    display: block;
+}
+.stepsbox {
+    width: 100%;
+    clear: both;
+    margin-bottom: 10px;
+    background-color: rgba(215, 255, 215, .5);
+}
